@@ -56,11 +56,6 @@ Ensure you have the following installed:
    docker-compose up --build
    ```
 
-## 🏗️ Architecture
-- **MVC Architecture** – Ensures clean separation of concerns between models, views, and controllers.
-- **RESTful API** – Exposes endpoints for seamless frontend-backend communication.
-- **Containerized Deployment** – Uses Docker to ensure scalability and consistency across environments.
-
 ## 📊 API Documentation
 API documentation is available via Swagger:
 - Run the backend server and navigate to:
